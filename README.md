@@ -92,3 +92,5 @@ source venv/bin/activate
 # Install the required packages
 pip install -r requirements.txt
 
+### WEBSITE
+URL https://assistantresume-6.onrender.com
