@@ -73,3 +73,22 @@ Follow these steps to run the assistant on your local machine.
 ```bash
 git clone [https://github.com/Cheikhfall03/AssistantResume.git](https://github.com/Cheikhfall03/AssistantResume.git)
 cd AssistantResume
+### 3. Install Dependencies
+
+> It's recommended to work in a virtual environment.
+
+#### Bash
+
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate the environment (macOS/Linux)
+source venv/bin/activate
+
+# Activate the environment (Windows)
+# venv\Scripts\activate
+
+# Install the required packages
+pip install -r requirements.txt
+
