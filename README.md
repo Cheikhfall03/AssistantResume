@@ -93,4 +93,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ### WEBSITE
-URL https://assistantresume-6.onrender.com
+URL https://assistantresum.onrender.com
