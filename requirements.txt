@@ -6,3 +6,4 @@ openai
 openai-agents
 gunicorn
 chainlit
+groq
